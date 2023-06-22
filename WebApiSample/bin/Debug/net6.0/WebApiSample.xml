@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiSample</name>
+    </assembly>
+    <members>
+        <member name="T:WebApiSample.Controllers.ValuesController">
+            <summary>
+             Api para teste inicial
+            </summary>
+        </member>
+    </members>
+</doc>
